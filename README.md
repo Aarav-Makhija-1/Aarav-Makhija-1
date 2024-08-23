@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Aarav-Makhija-1?tab=followers"><img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-blue?style=for-the-badge&logo=github"></a>
-  <a href="https://in.linkedin.com/in/aarav-makhija"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://in.linkedin.com/in/aarav-makhija-73bbbb324?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
@@ -71,5 +71,5 @@
 ### 📫 Let's Connect!
 <p align="center">
   <a href="mailto:aaravcodes5418@gmail.com"><img src="https://img.shields.io/badge/aaravcodes5418@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://in.linkedin.com/in/aarav-makhija"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://in.linkedin.com/in/aarav-makhija-73bbbb324?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
