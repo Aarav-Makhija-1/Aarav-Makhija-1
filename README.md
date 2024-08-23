@@ -12,7 +12,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on (its a suprise you will have to wait and see ) 
+- 🔭 I’m currently working on The Ultimate Study Hub: The All-in-One Learning Ecosystem
 - 🌱 I’m currently learning **React Native, Data Structures & Algorithms**
 - 💬 Ask me about **Web Development, Python, and Problem-Solving**
 - 🥅 2024 Goals: Contribute to more **Open Source Projects**
